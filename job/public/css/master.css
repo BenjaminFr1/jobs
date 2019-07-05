@@ -1,0 +1,24 @@
+.input-group-append{
+    display: none;
+}
+
+body{
+    margin-top : 2%;
+    margin-bottom : 2%;
+}
+
+#myTable_info{
+    display: none;
+}
+.onclick{
+    cursor: pointer;
+}
+
+#myTable_filter{
+    display: none;
+}
+
+.edit_save{
+    cursor: pointer;
+    color: blue;
+}
